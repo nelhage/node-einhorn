@@ -1,0 +1,11 @@
+{
+    "name": "einhorn",
+    "main": "lib/einhorn.js",
+    "version": "0.1.0",
+    "description": "Bindings for writing einhorn workers in node.js",
+    "homepage": "https://github.com/nelhage/node-einhorn",
+    "bugs": {
+        "url": "https://github.com/nelhage/node-einhorn/issues"
+    },
+    "author": "Nelson Elhage <nelhage@nelhage.com>"
+}
