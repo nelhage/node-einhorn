@@ -7,5 +7,11 @@
     "bugs": {
         "url": "https://github.com/nelhage/node-einhorn/issues"
     },
-    "author": "Nelson Elhage <nelhage@nelhage.com>"
+    "author": "Nelson Elhage <nelhage@nelhage.com>",
+    "dependencies": {
+        "posix": ">= 0.0.10"
+    },
+    "engines": {
+        "node": ">= 0.8.0"
+    }
 }
